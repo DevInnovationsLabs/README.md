@@ -62,7 +62,7 @@ We’re always looking for **innovators, creators, and thinkers** who want to wo
 Whether you’re an engineer, designer, or visionary — there’s a place for you here.
 
 📫 **Contact us:**  
-- 🌐 [Website (Coming Soon)](https://devinnovationslabs.com)  
+- 🌐 [Website](https://devinnovations.co.in)  
 - 💼 [LinkedIn](https://www.linkedin.com/company/devinnovations-india/)  
 - 📧 **sharan@devinnovations.co.in**
 
